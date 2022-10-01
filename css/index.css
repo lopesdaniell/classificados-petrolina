@@ -1,6 +1,6 @@
 body {
   padding: 70px;
-  background-image: url(/assets/img/bg.png);
+  background-image: url(../assets/img/bg.png);
   background-repeat: no-repeat;
   background-size: 1920px;
   background-color: #0079c2;
